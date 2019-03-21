@@ -24,7 +24,6 @@ public class AlternatingCharacters {
 			}
 
 		}
-		//Another method 
 		/*char prev=0;
 		int count=0;
 		for(char c:s1.toCharArray())
