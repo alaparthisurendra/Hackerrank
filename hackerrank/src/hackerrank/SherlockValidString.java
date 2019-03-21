@@ -13,7 +13,7 @@ public class SherlockValidString {
 	public static void main(String[] args) {
 		//String s="acda";
 		SherlockValidString sherlock=new SherlockValidString();
-		System.out.println(sherlock.isvalid("aabcce"));
+		System.out.println(sherlock.isvalid("abbccaa"));
 		//sherlock.isvalid("abc");
 	}
 
